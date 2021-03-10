@@ -1,0 +1,225 @@
+.new {
+  width: 60rem;
+  height: 5px;
+  margin-top: 40px;
+  margin-left: 300px;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.zom {
+  margin-left: 20px;
+  margin-right: 150px;
+}
+.head {
+  font-size: 20px;
+  flex-direction: row;
+  display: flex;
+  margin-right: 20px;
+}
+h6 {
+  margin-right: 20px;
+}
+.but {
+  width: 100px;
+  height: 30px;
+  align-items: center;
+  margin-right: 20px;
+  margin-top: 28px;
+  color: blue;
+}
+.sec {
+  background-color: #2f70fe;
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+}
+.find {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-weight: 100;
+  align-items: center;
+}
+.join {
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  font-weight: 100;
+  align-items: center;
+}
+.butt {
+  background-color: black;
+  color: white;
+  margin-left: 350px;
+}
+.img {
+  align-content: flex-start;
+  width: 6rem;
+  margin-right: 400px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+}
+.hero {
+  width: 10rem;
+  margin-bottom: 120px;
+  color: #2f70fe;
+}
+.third {
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+  background-color: azure;
+}
+.h3 {
+  text-align: center;
+  justify-content: center;
+}
+.party {
+  width: 26rem;
+  justify-content: center;
+  margin-left: 100px;
+}
+.second {
+  margin-left: 750px;
+  width: 3rem;
+  margin-top: 20px;
+}
+.first {
+  width: 3rem;
+  margin-left: 40px;
+}
+.fourth {
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.prog {
+  margin-left: 120px;
+  margin-top: 70px;
+}
+.can {
+  margin-left: 120px;
+  font-size: 8px;
+  width: 15rem;
+}
+.stero {
+  width: 20rem;
+  height: 10rem;
+  /* margin-left: 180x; */
+  margin-top: 30px;
+}
+.fifth {
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.ven {
+  margin-left: 120px;
+}
+.brand {
+  margin-left: 120px;
+  font-size: 8px;
+  width: 15rem;
+}
+.signnn {
+  margin-left: 120px;
+  color: #2f70fe;
+}
+.vendor {
+  width: 20rem;
+  height: 10rem;
+  margin-left: 50px;
+}
+.sixth {
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.best {
+  margin-left: 120px;
+}
+.rich {
+  margin-left: 120px;
+  font-size: 8px;
+  width: 15rem;
+}
+.signn {
+  margin-left: 120px;
+  color: #2f70fe;
+}
+.pilot {
+  width: 20rem;
+  height: 13rem;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.seventh {
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.mance {
+  margin-left: 190px;
+}
+.more {
+  margin-left: 190px;
+  font-size: 8px;
+  width: 15rem;
+}
+.sign {
+  margin-left: 190px;
+  color: #2f70fe;
+}
+.track {
+  height: 9rem;
+  margin-left: 50px;
+}
+.eight {
+  width: 52.5rem;
+  height: 19rem;
+  margin-left: 350px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.book {
+  margin-left: 16px;
+}
+.happy {
+  margin-left: 16px;
+  font-size: 8px;
+  width: 15rem;
+}
+.sig {
+  margin-left: 16px;
+  color: #2f70fe;
+}
+.sales {
+  height: 10rem;
+  margin-left: 60px;
+}
+.last {
+  width: 52.5rem;
+  height: 10rem;
+  margin-left: 350px;
+  background-color: black;
+  color: white;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 40px;
+}
